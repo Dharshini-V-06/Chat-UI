@@ -26,7 +26,7 @@ A modern and responsive **Social Media Chat Interface** built using **HTML** and
 ## File Structure
 
 ```
-social-media-chat-ui/
+chat-ui/
 │
 ├── index.html        # Main HTML file containing the chat UI
 └── README.md         # Project documentation
